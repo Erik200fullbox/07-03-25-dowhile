@@ -1,0 +1,15 @@
+div {
+   display: inline-flex;
+}
+
+#div_hora {
+    color: red;
+}
+
+#div_minutos {
+    color: blue;
+}
+
+#div_segudos {
+    color: greenyellow;
+}
